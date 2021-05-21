@@ -8,10 +8,10 @@
         <version>2.4.4</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.springdata</groupId>
-    <artifactId>elasticsearch</artifactId>
+    <groupId>com.iqmsoft</groupId>
+    <artifactId>springbootelasticsearch</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>elasticsearch</name>
+    <name>springbootelasticsearch</name>
     <description>Demo project for Spring Boot</description>
     <properties>
         <java.version>15</java.version>
